@@ -10,7 +10,9 @@ brew install tag
 ## Example
 
 ```
-ruby add_tag_by_folder.rb ../../Dropbox/Work-screen-capture/Screenshot-all/
+$ ruby add_tag_by_folder.rb ../../Dropbox/Work-screen-capture/Screenshot-all/
+
+$ ruby add_tag_by_folder.rb ../add_tag_by_folder/example/
 ```
 
 
